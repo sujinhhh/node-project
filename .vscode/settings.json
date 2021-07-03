@@ -1,0 +1,10 @@
+{
+  "react-native.android.logCatArguments": [
+    "*:S",
+    "ReactNative:V",
+    "ReactNativeJS:V"
+  ],
+  "emmet.includeLanguages": {
+    "ejs": "html"
+  }
+}
